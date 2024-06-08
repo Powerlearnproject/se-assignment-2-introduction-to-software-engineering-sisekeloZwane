@@ -60,12 +60,28 @@ What are version control systems, and why are they important in software develop
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+-The role of a software project manager is to plan and coordinate software activities to achieve set goals using the contraints scope,time and cost. Challenges include: 
+limited time; clients want increased complexity projects in a short space of time and still be of high quality
+changing customer requirements; the requirements specificstions for software are constantly evolving to adapt to market changes so project managers have to factor in that when they plan to reduce costs associated with adapting to change
+
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenenace involves providing ongoing support for the software throughout its lifecycle after it has been put into use.Maintanence activities include
+Fault repair;here we fix problems or bugs and improve the way the software meets its requirements
+Environmental Adaptation; we modify the software to fit a different operating environment
+Perfomative maintenence; we add or modify functionality to satisfy changing new requirements
+
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+-Ethical issues include confidentiality; developers ought to respect the confidentiality of their clients irrespective of legally binding contracts or not. Competency; software engineers must not misrepresent their level of skills and not be able to deliver at the end. 
+They can ensure they adhere to these ethical standards by subscribing to the code of ACM code of ethics which encompasses all areas they should be weary of.
+
+References:
+https://docs.google.com/presentation/d/1DqIQCq5Yt-JeeNfLH0ixIxtBwxpHvqWa/edit#slide=id.p1
+Sommerville, I. (2015). Software Engineering (10th ed.). Pearson.
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
